@@ -20,4 +20,5 @@ BPMN is selected to represent the process model due to its standardized notation
 - [Images](./img): images included in the project report.
 - [Project report](./p42-movie-store-BPM-report.pdf)
 
-[//]: # (Please note that the project has been revised based on the professor's suggestions. Both the original and revised versions are available in the repository.)
+###### *_Please note that the project has been revised based on the professor's suggestions. Both the original and revised versions are available in the repository._*
+
