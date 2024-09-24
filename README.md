@@ -1,7 +1,5 @@
-# Business Process Modeling (2023-24)
+# Business Process Modeling Project (2023-24)
 
-
-# Project description
 Project provided by the lecturer of the [course](http://didawiki.cli.di.unipi.it/doku.php/magistraleinformaticaeconomia/mpb/start).
 
 The project requires to design a business process for an online movie store first in an at a more abstract level, using e.g., notations such as BPMN or EPC and then transformed into workflow net for the analysis. 
@@ -19,7 +17,7 @@ BPMN is selected to represent the process model due to its standardized notation
 # Organizational structure
 - BPMN design: [original version](./bpmn/p42-movies-store.bpmn) · [revised version](./bpmn/p42-movies-store-revised.bpmn) 
 - Petri nets: [original version](./petri/petri_net) · [revised version](./petri/petri_net_new) 
-- [Images](./img)
+- [Images](./img): images included in the project report.
 - [Project report](./p42-movie-store-BPM-report.pdf)
 
-* Please note that the project has been revised based on the professor's suggestions. Both the original and revised versions are available in the repository.
+[//]: # (Please note that the project has been revised based on the professor's suggestions. Both the original and revised versions are available in the repository.)
